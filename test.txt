@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="UTF-8">
+    <meta name="description" content="depression being dealt via donuts">
+    <meta name="keywords" content="HTML,CSS,XML,JavaScript">
+    <meta name="author" content="Beatriz Cruz">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+
+	<title> America </title>
+	<link rel="stylesheet" href="test.css" title="style1" />
+
+  </head>
+
+<body>
+
+ <div class="content">
+
+		<div class="">
+		The heading
+		</div>heading
+
+		<div class="navigation">
+		Link boys
+		</div>
+
+		<div class="main">
+		Main content wowie
+		</div>
+
+		<div class="footer">
+		copyright demonitization
+		</div>
+ </div>
+
+</body>
+
+</html>

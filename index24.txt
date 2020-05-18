@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="description" content="DG200 practice">
+  <meta name="keywords" content="HTML,CSS,XML,JavaScript">
+  <meta name="author" content="Asif Iqbal">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title> How to link CSS</title>
+<link rel="stylesheet" href="dg1.css" title="style1"/>
+
+</head>
+
+
+
+<body>
+
+<div class="content">
+
+<div class="heading">
+the heading goes here
+
+</div>
+
+<div class="nevigation">
+links go here
+
+</div>
+
+<div class= "main">
+main text goes here
+</div>
+
+<div class="footer">
+copy right info go here
+
+</div>
+
+</div>
+
+ </body>
+
+</html>

@@ -1,0 +1,33 @@
+body {
+	font-family: Tahoma;
+	color: #0BB5FF
+}
+div.content {
+	margin: auto;
+	width: 900px
+	background-colour: #9999ff
+}
+
+div.heading {
+	background-color: #cce6ff
+	padding: 6px;
+}
+
+div.navigation {
+	background-color: #99ffcc
+	float: left;
+	width: 150px;
+	padding: 6px;
+}
+
+div.main {
+	background-color: #ff9999
+	margin-left: 170px;
+	background-color: #ffcc99
+}
+
+div.footer {
+	background-color: #cce6ff
+	padding: 6px;
+	float: right;
+}

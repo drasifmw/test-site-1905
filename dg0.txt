@@ -1,0 +1,37 @@
+body {
+	font-family: Tahoma;
+	color:#000000;
+	background-color: beige;
+}
+
+div.content {
+	margin:auto;
+	width:95%;
+	background-color: #9ACBE0; 
+}
+
+div.heading {
+	background-color: #00828B;
+	
+}
+
+div.navigation {
+	
+    background-color: maroon;
+}
+
+div.main {
+	
+	background-color: #ffffff;
+
+}
+div.footer {
+background-color: orange;
+	padding:20px;
+}
+h1{color: #00628B
+}
+h1.white
+{
+    color:#ffffff;
+}

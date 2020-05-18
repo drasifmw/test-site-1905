@@ -1,0 +1,54 @@
+body {
+	font-family: Tahoma;
+	color:#000000;
+	background-color: beige;
+}
+
+div.content {
+    margin: auto;
+	width:95%;
+	background-color: #9ACBE0; 
+}
+
+div.heading {
+	background-color: #00828B;
+	padding:40px;
+}
+
+div.navigation {
+	float:left;
+	width:150px;
+	padding:10px;
+    background-color: maroon;
+}
+div.nav_col_1 {
+width: 140px;
+float: left;
+}
+a.side{
+    font-weight: bold;
+    a.side:link {color:blueviolet
+    }
+    
+    a{font-weight: bold;
+    }
+    a:link {color: black;
+    }
+}
+
+div.main {
+	padding: 20px;
+	margin-left:170px;
+	background-color: #ffffff;
+
+}
+div.footer {
+background-color: orange;
+	padding:20px;
+}
+h1{color: #00628B
+}
+h1.white
+{
+    color:#ffffff;
+}
